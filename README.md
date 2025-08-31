@@ -9,28 +9,34 @@
 
 <h1 align="center">&gt; Hellooo <img width="25" src="./assets/GIFs/pikachu-greet.gif">, I am <i>Mahesh</i> &lt;</h1>
 
-<div style="display: flex; justify-content: center;">
-    <h1 align="left">|</h1>
-    <h1 align="center">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Caveat&size=40&duration=3000&pause=400&color=fff&center=true&vCenter=true&height=40&lines=Frontend+Developer;Creative+Engineer;Pixel+Perfectionist;Debugging+Ninja;Tech+Enthusiast;Proud+Indian" alt="Typing SVG">
-    </h1>
-    <h1 align="right">|</h1>
-</div>
+<table align="center">
+    <tr>
+        <td>
+            <h1>|</h1>
+        </td>
+        <td>
+            <p><img src="https://readme-typing-svg.herokuapp.com?font=Caveat&size=40&duration=3000&pause=400&color=FFFFFF&center=true&vCenter=true&width=310&height=40&lines=Frontend+Developer;Creative+Engineer;Pixel+Perfectionist;Debugging+Ninja;Tech+Enthusiast;Proud+Indian" alt="Typing SVG"></p>
+        </td>
+        <td>
+            <h1>|</h1>
+        </td>
+    </tr>
+</table>
 
 <p align="center">
-    <a href="https://www.linkedin.com/in/mahesh-sai-kumar-narava/" target="_blank">
+    <a href="https://www.linkedin.com/in/mahesh-sai-kumar-narava/">
         <img width="35" src="./assets/SVGs/linkedin-logo.svg">
-    </a>&nbsp;
-    <a href="mailto:naravamaheshsaikumar.321@gmail.com" target="_blank">
+    </a>
+    <a href="mailto:naravamaheshsaikumar.321@gmail.com">
         <img width="40" height="35" src="./assets/SVGs/gmail-logo.svg">
-    </a>&nbsp;
-    <a href="https://wa.me/919885206538" target="_blank">
+    </a>
+    <a href="https://wa.me/919885206538">
         <img width="35" src="./assets/SVGs/whatsapp-logo.svg">
-    </a>&nbsp;
-    <a href="https://www.instagram.com/mahesh_ante_nene/" target="_blank">
+    </a>
+    <a href="https://www.instagram.com/mahesh_ante_nene/">
         <img width="35" src="./assets/SVGs/instagram-logo.svg">
-    </a>&nbsp;
-    <a href="https://x.com/Mahesh_3173" target="_blank">
+    </a>
+    <a href="https://x.com/Mahesh_3173">
         <img width="35" src="./assets/SVGs/x-logo.svg">
     </a>
 </p>
