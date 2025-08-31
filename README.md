@@ -11,34 +11,16 @@
     <table>
         <tr>
             <td>
-                <h1>🔵</h1>
+                <h1>🎨</h1>
             </td>
             <td>
                 <img src="https://readme-typing-svg.herokuapp.com?font=Caveat&size=40&duration=3000&pause=400&color=623395&center=true&vCenter=true&width=300&height=40&lines=Frontend+Developer;Creative+Engineer;Pixel+Perfectionist;Debugging+Ninja;Tech+Enthusiast;Proud+Indian" alt="Typing SVG">
             </td>
             <td>
-                <h1>🔴</h1>
+                <h1>✨</h1>
             </td>
         </tr>
     </table>
-    <div align="center" style="display: inline-block; background:#222; padding:20px; border-radius:20px;">
-  <div style="display:flex; justify-content:center; align-items:center;">
-    <!-- Left button -->
-    <div style="width:50px; height:50px; background:#3b82f6; border-radius:50%; display:flex; justify-content:center; align-items:center; font-size:30px; margin-right:15px;">
-      🔵
-    </div>
-
-<!-- Center screen (Typing SVG) -->
-<div style="background:#111; padding:10px 20px; border-radius:15px;">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Caveat&size=40&duration=3000&pause=400&color=FFFFFF&center=true&vCenter=true&width=300&height=40&lines=Frontend+Developer;Creative+Engineer;Pixel+Perfectionist;Debugging+Ninja;Tech+Enthusiast;Proud+Indian" alt="Typing SVG">
-    </div>
-
-<!-- Right button -->
-<div style="width:50px; height:50px; background:#ef4444; border-radius:50%; display:flex; justify-content:center; align-items:center; font-size:30px; margin-left:15px;">
-      🔴
-    </div>
-  </div>
-</div>
     <p>
         <a href="https://www.linkedin.com/in/mahesh-sai-kumar-narava/">
             <img width="35" src="./assets/SVGs/linkedin-logo.svg">
