@@ -1,23 +1,23 @@
-<a href="https://komarev.com/ghpvc/?username=mahesh-pgit&color=blueviolet&style=flat-square">
-    <img align="right" src="https://komarev.com/ghpvc/?username=mahesh-pgit&color=blueviolet&style=flat-square&label=Profile+Views" alt="GitHub Profile Views Counter">
+<a href="https://komarev.com/ghpvc/?username=mahesh-pgit&color=24ACF2&style=flat-square">
+    <img align="right" src="https://komarev.com/ghpvc/?username=mahesh-pgit&color=24ACF2&style=flat-square&label=Profile+Views" alt="GitHub Profile Views Counter">
 </a>
 
 <br>
 <br>
 
 <div align="center">
-    <img height="300" src="./assets/GIFs/mario-programmer.gif">
+    <img height="200" src="./assets/GIFs/mario-programmer.gif">
     <h1>&gt; Hellooo <img width="25" src="./assets/GIFs/pikachu-greet.gif">, I am <i>Mahesh</i> &lt;</h1>
     <table>
         <tr>
             <td>
-                <h1>👉</h1>
-            </td>
-            <td>
-                <img src="https://readme-typing-svg.herokuapp.com?font=Caveat&size=40&duration=3000&pause=400&color=623395&center=true&vCenter=true&width=300&height=40&lines=Frontend+Developer;Creative+Engineer;Pixel+Perfectionist;Debugging+Ninja;Tech+Enthusiast;Proud+Indian" alt="Typing SVG">
-            </td>
-            <td>
                 <h1>🎨</h1>
+            </td>
+            <td>
+                <img src="https://readme-typing-svg.herokuapp.com?font=Caveat&size=40&duration=3500&pause=500&color=24ACF2&center=true&vCenter=true&width=300&height=40&lines=Frontend+Developer;Creative+Engineer;Pixel+Perfectionist;Debugging+Ninja;Tech+Enthusiast;Proud+Indian" alt="Typing SVG">
+            </td>
+            <td>
+                <h1>✨</h1>
             </td>
         </tr>
     </table>
@@ -115,20 +115,40 @@
 <!-- ![Heroku](https://img.shields.io/badge/Heroku-000?style=for-the-badge&logo=heroku) -->
 <!-- ![Railway](https://img.shields.io/badge/Railway-000?style=for-the-badge&logo=railway) -->
 
-## Currently working on <img width="25" src="./assets/GIFs/chill-cat.gif">
+## Currently working on <img width="20" src="./assets/GIFs/chill-cat.gif">
 
-[![terabite-app](https://svg.bookmark.style/api?url=https://github.com/mahesh-pgit/terabite-app&mode=light&style=horizontal)](https://github.com/mahesh-pgit/terabite-app)
+[![terabite-app](https://svg.bookmark.style/api?url=https://github.com/mahesh-pgit/terabite-app&mode=dark&style=horizontal)](https://github.com/mahesh-pgit/terabite-app)
+
+## Projects Spotlight ✨
+
+[![Serene](https://github-readme-stats.vercel.app/api/pin?username=mahesh-pgit&repo=serene-app&border_color=24ACF2&bg_color=080A0D&title_color=C3D0E5&text_color=9BA3B4&icon_color=24ACF2&show_owner=false)](https://github.com/mahesh-pgit/serene-app)
+[![Cipher Gen](https://github-readme-stats.vercel.app/api/pin?username=mahesh-pgit&repo=cipher-gen&border_color=24ACF2&bg_color=080A0D&title_color=C3D0E5&text_color=9BA3B4&icon_color=24ACF2&show_owner=false)](https://github.com/mahesh-pgit/cipher-gen)
+[![OTP Input](https://github-readme-stats.vercel.app/api/pin?username=mahesh-pgit&repo=otp-input&border_color=24ACF2&bg_color=080A0D&title_color=C3D0E5&text_color=9BA3B4&icon_color=24ACF2&show_owner=false)](https://github.com/mahesh-pgit/otp-input)
+[![VS Code Clone](https://github-readme-stats.vercel.app/api/pin?username=mahesh-pgit&repo=vscode-clone&border_color=24ACF2&bg_color=080A0D&title_color=C3D0E5&text_color=9BA3B4&icon_color=24ACF2&show_owner=false)](https://github.com/mahesh-pgit/vscode-clone)
+
+## GitHub Stats 📊
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=mahesh-pgit&show_icons=true&rank_icon=github&include_all_commits=&exclude_repo=&border_radius=6&border_color=24ACF2&bg_color=080A0D&title_color=C3D0E5&text_color=9BA3B4&icon_color=24ACF2" alt="GitHub Stats">
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahesh-pgit&size_weight=0.5&count_weight=0.5&layout=compact&langs_count=8&exclude_repo=&border_color=24ACF2&bg_color=080A0D&title_color=C3D0E5&text_color=9BA3B4&icon_color=24ACF2" alt="Most Used Languages">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=mahesh-pgit&border_radius=6&card_width=500&card_height=170&background=080A0D&border=24ACF2&stroke=4DAAFC&ring=FFD530&fire=FB8C00&currStreakNum=E6EEFA&sideNums=E6EEFA&currStreakLabel=C3D0E5&sideLabels=C3D0E5&dates=9BA3B4&excludeDaysLabel=9BA3B4" alt="GitHub Streak Stats" />
+
+<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=mahesh-pgit&bg_color=080A0D&title_color=C3D0E5&color=9BA3B4&line=24ACF2&point=false&area=true&area_color=24ACF2&hide_border=true&radius=10&height=300&grid=false" alt="Contribution Graph">
+
+> Check Commits below, GitHub stats are sometimes inaccurate due to caching.
+
+## Fun Dev Snippet 🎮
 
 ```javascript
 if (mood === "motivated") {
 	for (let i = 0; i < infiniteIdeas; i++) {
-		createProject(i);
-		deployToVercel(i);
-		addToPortfolio(i);
+		createProject(i); // 💻 Making magic happen
+		deployToVercel(i); // ☁️ Sending it to the cloud
+		addToPortfolio(i); // 🖼️ Portfolio flex
 	}
 } else {
-	console.log("😴 Motivation not found... switching to Netflix mode 🍿");
-	bingeNetflix();
+	console.log("Motivation not found... switching to Netflix mode 🍿");
+	bingeNetflix(); // 🤩 Dev break time
 }
 
 // - Mahesh Sai Kumar Narava
@@ -144,10 +164,5 @@ while (life.hasBugs()) {
 	}
 }
 ``` -->
-
-<img height="120px" src="https://github-readme-stats.vercel.app/api?username=mahesh-pgit&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
-<img height="120px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahesh-pgit&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=github-graphack&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
-
-> Check Commits below, GitHub stats are sometimes inaccurate due to caching.
 
 <img width="2000" src="./assets/GIFs/gradient-line.gif">
