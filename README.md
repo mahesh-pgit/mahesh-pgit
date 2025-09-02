@@ -130,11 +130,10 @@
 
 <div>
     <img height="170" src="https://github-readme-stats.vercel.app/api?username=mahesh-pgit&show_icons=true&rank_icon=github&include_all_commits=&exclude_repo=&border_radius=6&border_color=24ACF2&bg_color=080A0D&title_color=C3D0E5&text_color=9BA3B4&icon_color=24ACF2" alt="GitHub Stats">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahesh-pgit&size_weight=0.5&count_weight=0.5&layout=compact&card_width=300&langs_count=8&exclude_repo=&border_color=24ACF2&bg_color=080A0D&title_color=C3D0E5&text_color=9BA3B4&icon_color=24ACF2" alt="Most Used Languages">
+    <img width="365" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahesh-pgit&size_weight=0.5&count_weight=0.5&layout=compact&langs_count=8&exclude_repo=&border_color=24ACF2&bg_color=080A0D&title_color=C3D0E5&text_color=9BA3B4&icon_color=24ACF2" alt="Most Used Languages">
 </div>
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=mahesh-pgit&border_radius=6&card_width=500&card_height=170&background=080A0D&border=24ACF2&stroke=4DAAFC&ring=FFD530&fire=FB8C00&currStreakNum=E6EEFA&sideNums=E6EEFA&currStreakLabel=C3D0E5&sideLabels=C3D0E5&dates=9BA3B4&excludeDaysLabel=9BA3B4" alt="GitHub Streak Stats" />
-
 <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=mahesh-pgit&bg_color=080A0D&title_color=C3D0E5&color=9BA3B4&line=24ACF2&point=false&area=true&area_color=24ACF2&hide_border=true&radius=10&height=300&grid=false" alt="Contribution Graph">
 
 > Check Commits below, GitHub stats are sometimes inaccurate due to caching.
