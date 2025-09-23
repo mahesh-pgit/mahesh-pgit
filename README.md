@@ -42,7 +42,7 @@
 
 ## Tech Stack 💻
 
-#### Languages & Markup
+#### Scripting & Markup Languages
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript)
@@ -63,6 +63,17 @@
 <!-- ![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=nodedotjs) -->
 <!-- ![Express](https://img.shields.io/badge/Express-000?style=for-the-badge&logo=express) -->
 
+#### Databases & APIs
+
+![REST APIs](https://img.shields.io/badge/REST_APIs-000?style=for-the-badge&logo=resend)
+![GraphQL](https://img.shields.io/badge/GraphQL-000?style=for-the-badge&logo=graphql&logoColor=E10098)
+![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
+
+<!-- ![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb) -->
+<!-- ![Firebase](https://img.shields.io/badge/Firebase-000?style=for-the-badge&logo=firebase&logoColor=DD2C00) -->
+<!-- ![Supabase](https://img.shields.io/badge/Supabase-000?style=for-the-badge&logo=supabase) -->
+
 #### Design & UI Tools
 
 ![Figma](https://img.shields.io/badge/Figma-000?style=for-the-badge&logo=figma)
@@ -74,33 +85,23 @@
 ![Icons8](https://img.shields.io/badge/Icons8-000?style=for-the-badge&logo=icons8)
 ![Overleaf](https://img.shields.io/badge/Overleaf-000?style=for-the-badge&logo=overleaf)
 
-<!-- ![Dribbble](https://img.shields.io/badge/Dribbble-000?style=for-the-badge&logo=dribbble) -->
 <!-- ![Storybook](https://img.shields.io/badge/Storybook-000?style=for-the-badge&logo=storybook) -->
+<!-- ![Dribbble](https://img.shields.io/badge/Dribbble-000?style=for-the-badge&logo=dribbble) -->
 <!-- ![Sketch](https://img.shields.io/badge/Sketch-000?style=for-the-badge&logo=sketch) -->
-
-#### Databases & APIs
-
-![REST APIs](https://img.shields.io/badge/REST_APIs-000?style=for-the-badge&logo=)
-![GraphQL](https://img.shields.io/badge/GraphQL-000?style=for-the-badge&logo=graphql&logoColor=E10098)
-![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql)
-
-<!-- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql) -->
-<!-- ![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb) -->
-<!-- ![Firebase](https://img.shields.io/badge/Firebase-000?style=for-the-badge&logo=firebase&logoColor=DD2C00) -->
-<!-- ![Supabase](https://img.shields.io/badge/Supabase-000?style=for-the-badge&logo=supabase) -->
 
 #### Development Tools
 
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-000?style=for-the-badge&logo=)
-![Chrome Developer Tools](https://img.shields.io/badge/Chrome_Developer_Tools-000?style=for-the-badge&logo=googlechrome)
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-000?style=for-the-badge&logo=vitess&logoColor=23AAF2)
 ![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)
 ![npm](https://img.shields.io/badge/npm-000?style=for-the-badge&logo=npm&logoColor=CB3837)
+![pnpm](https://img.shields.io/badge/pnpm-000?style=for-the-badge&logo=pnpm)
+![Parcel](https://img.shields.io/badge/Parcel-000?style=for-the-badge&logo=dropbox&logoColor=DAA875)
+![Vite](https://img.shields.io/badge/Vite-000?style=for-the-badge&logo=vite)
 ![Prettier](https://img.shields.io/badge/Prettier-000?style=for-the-badge&logo=prettier)
 ![Babel](https://img.shields.io/badge/Babel-000?style=for-the-badge&logo=babel)
 ![Postman](https://img.shields.io/badge/Postman-000?style=for-the-badge&logo=postman)
-![Parcel](https://img.shields.io/badge/Parcel-000?style=for-the-badge&logo=)
-![Vite](https://img.shields.io/badge/Vite-000?style=for-the-badge&logo=vite)
+![Chrome Developer Tools](https://img.shields.io/badge/Chrome_Developer_Tools-000?style=for-the-badge&logo=googlechrome)
 ![ngrok](https://img.shields.io/badge/ngrok-000?style=for-the-badge&logo=ngrok&logoColor=1F1E37)
 
 <!-- ![Webpack](https://img.shields.io/badge/Webpack-000?style=for-the-badge&logo=webpack) -->
@@ -110,12 +111,13 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel)
 ![Netlify](https://img.shields.io/badge/Netlify-000?style=for-the-badge&logo=netlify)
 ![Render](https://img.shields.io/badge/Render-000?style=for-the-badge&logo=render)
+![CloudFlare](https://img.shields.io/badge/CloudFlare-000?style=for-the-badge&logo=cloudflare)
 ![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-000?style=for-the-badge&logo=githubpages)
 
-<!-- ![Heroku](https://img.shields.io/badge/Heroku-000?style=for-the-badge&logo=heroku) -->
+<!-- ![Heroku](https://img.shields.io/badge/Heroku-000?style=for-the-badge&logo=heroku&logoColor=430098) -->
 <!-- ![Railway](https://img.shields.io/badge/Railway-000?style=for-the-badge&logo=railway) -->
 
-## Currently working on <img width="20" src="./assets/GIFs/chill-cat.gif">
+## Currently working on <img width="20" src="./assets/GIFs/disco-cat.gif">
 
 [![terabite-app](https://svg.bookmark.style/api?url=https://github.com/mahesh-pgit/terabite-app&mode=dark&style=horizontal)](https://github.com/mahesh-pgit/terabite-app)
 
