@@ -119,14 +119,16 @@
 
 ## Currently working on <img width="20" src="./assets/GIFs/disco-cat.gif">
 
-[![terabite-app](https://svg.bookmark.style/api?url=https://github.com/mahesh-pgit/terabite-app&mode=dark&style=horizontal)](https://github.com/mahesh-pgit/terabite-app)
+[![nextjs-dashboard](https://svg.bookmark.style/api?url=https://github.com/mahesh-pgit/nextjs-dashboard&mode=dark&style=horizontal)](https://github.com/mahesh-pgit/nextjs-dashboard)
 
 ## Projects Spotlight ✨
 
+[![Terabite](https://github-readme-stats.vercel.app/api/pin?username=mahesh-pgit&repo=terabite-app&border_color=24ACF2&bg_color=080A0D&title_color=C3D0E5&text_color=9BA3B4&icon_color=24ACF2&show_owner=false)](https://github.com/mahesh-pgit/terabite-app)
 [![Serene](https://github-readme-stats.vercel.app/api/pin?username=mahesh-pgit&repo=serene-app&border_color=24ACF2&bg_color=080A0D&title_color=C3D0E5&text_color=9BA3B4&icon_color=24ACF2&show_owner=false)](https://github.com/mahesh-pgit/serene-app)
 [![Cipher Gen](https://github-readme-stats.vercel.app/api/pin?username=mahesh-pgit&repo=cipher-gen&border_color=24ACF2&bg_color=080A0D&title_color=C3D0E5&text_color=9BA3B4&icon_color=24ACF2&show_owner=false)](https://github.com/mahesh-pgit/cipher-gen)
 [![OTP Input](https://github-readme-stats.vercel.app/api/pin?username=mahesh-pgit&repo=otp-input&border_color=24ACF2&bg_color=080A0D&title_color=C3D0E5&text_color=9BA3B4&icon_color=24ACF2&show_owner=false)](https://github.com/mahesh-pgit/otp-input)
-[![VS Code Clone](https://github-readme-stats.vercel.app/api/pin?username=mahesh-pgit&repo=vscode-clone&border_color=24ACF2&bg_color=080A0D&title_color=C3D0E5&text_color=9BA3B4&icon_color=24ACF2&show_owner=false)](https://github.com/mahesh-pgit/vscode-clone)
+
+<!-- [![VS Code Clone](https://github-readme-stats.vercel.app/api/pin?username=mahesh-pgit&repo=vscode-clone&border_color=24ACF2&bg_color=080A0D&title_color=C3D0E5&text_color=9BA3B4&icon_color=24ACF2&show_owner=false)](https://github.com/mahesh-pgit/vscode-clone) -->
 
 ## GitHub Stats 📊
 
